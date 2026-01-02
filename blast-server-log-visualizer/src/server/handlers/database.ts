@@ -42,11 +42,16 @@ const useDatabase = <TData>(
         if (!content)
             return undefined
 
+        // The determining of the type, and the subsequent reading and returning of data could 
+        // do with a little refactor, as to not repeat ourselves with `return data`.
+
         // Handling json.
         if (extension === "json") {
             data = handler
                 ? handler(content)
                 : JSON.parse(content) as TData
+
+            return data
         }
         
         if (!handler)

@@ -1,5 +1,5 @@
 import express from "express";
-import { provisionDatabase } from "../controllers/provision-controllers.ts";
+import { provisionDatabase } from "../controllers/provision-controller.ts";
 
 const router = express.Router()
 

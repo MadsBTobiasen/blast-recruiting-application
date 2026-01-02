@@ -10,11 +10,11 @@ export const provisionDatabase: RouteDefinition = async (req, res) => {
         return
     }
 
-    /*if (await matchDataDatabase.get()) 
+    if (await matchDataDatabase.get()) 
     {
         res.status(200).json({ message: "Database already provisioned, no action taken." });
         return
-    }*/
+    }
 
     const response = await fetch(body.url)
     const data = await response.text()
@@ -23,5 +23,5 @@ export const provisionDatabase: RouteDefinition = async (req, res) => {
     await parseServerLogData()    
 
     // Implementation for provisioning the database
-    res.status(200).json({ message: "Getting all users" });
+    res.status(200).json({ message: `Fetched server logs from: '${body.url}'.` });
 }
