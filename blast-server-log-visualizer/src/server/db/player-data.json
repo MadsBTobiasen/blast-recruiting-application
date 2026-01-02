@@ -1,0 +1,4022 @@
+{
+    "s1mple": {
+        "fullIdentifier": "s1mple<30><STEAM_1:1:36968273",
+        "name": "s1mple",
+        "roundEvents": {
+            "1": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 181,
+                        "y": -2121,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:41:49.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1186 -1862 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [181 -2121 -370] with \"usp_silencer\" (headshot)"
+                }
+            ],
+            "2": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 12,
+                        "y": -453,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:44:21.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [12 -453 -416] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [559 633 -416] with \"deagle\" (headshot)"
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 927,
+                        "y": -724,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:44:45.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [927 -724 -640] killed \"shox <33><STEAM_1:1:23327283><CT>\" [731 -593 -704] with \"deagle\" (headshot)"
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 994,
+                        "y": -969,
+                        "z": -722
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:45:05.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1137 -1043 -768] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [994 -969 -722] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "3": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 296,
+                        "y": -1813,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:47:18.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [296 -1813 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1961 -1879 -352] with \"ak47\""
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1459,
+                        "y": -570,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:47:58.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1077 -334 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [1459 -570 -370] with \"m4a1_silencer\""
+                }
+            ],
+            "4": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 211,
+                        "y": -1042,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:48:47.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [-192 -607 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [211 -1042 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "5": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 207,
+                        "y": -1227,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:50:26.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [207 -1227 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [897 -1311 -352] with \"inferno\""
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 561,
+                        "y": -1226,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:50:33.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [509 -600 -400] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [561 -1226 -352] with \"m4a1_silencer\" (headshot penetrated)"
+                }
+            ],
+            "6": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1074,
+                        "y": -1040,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:52:59.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [1074 -1040 -768] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [340 -573 -572] with \"tec9\" (headshot)"
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 952,
+                        "y": -944,
+                        "z": -722
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:53:02.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [790 -1305 -640] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [952 -944 -722] with \"m4a1_silencer\""
+                }
+            ],
+            "8": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 272,
+                        "y": -1110,
+                        "z": -395
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:57:17.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [272 -1110 -395] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [285 -933 -328] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 17,
+                        "y": -1221,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:57:22.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [17 -1221 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [937 -1367 -368] with \"ak47\""
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 366,
+                        "y": -959,
+                        "z": -328
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:57:31.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [241 -1087 -415] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [366 -959 -328] with \"m4a1_silencer\""
+                }
+            ],
+            "9": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1269,
+                        "y": -936,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:59:51.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [1269 -936 -768] killed \"shox <33><STEAM_1:1:23327283><CT>\" [1285 -652 -576] with \"awp\""
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1179,
+                        "y": -1354,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:59:53.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1130 -1811 -635] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [1179 -1354 -576] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "10": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 272,
+                        "y": -2022,
+                        "z": -274
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:01:30.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [810 -2187 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [272 -2022 -274] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "11": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 686,
+                        "y": -1554,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:04:21.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [686 -1554 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [884 -488 -352] with \"ak47\""
+                }
+            ],
+            "12": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 8,
+                        "y": -300,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:02.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [-183 -970 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [8 -300 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "13": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 578,
+                        "y": -1219,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:09:06.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [601 -1113 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [578 -1219 -352] with \"taser\""
+                }
+            ],
+            "14": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 36,
+                        "y": -1211,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:10:54.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [-466 -881 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [36 -1211 -352] with \"ak47\" (headshot penetrated)"
+                }
+            ],
+            "15": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 374,
+                        "y": -2040,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:11:46.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [374 -2040 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1439 -2035 -370] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 880,
+                        "y": -2441,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:11:52.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [880 -2441 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [1317 -385 -64] with \"ak47\" (throughsmoke)"
+                }
+            ],
+            "16": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1279,
+                        "y": -861,
+                        "z": -408
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:16:31.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [1279 -861 -408] killed \"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [1167 -2441 -352] with \"usp_silencer\" (headshot)"
+                }
+            ],
+            "17": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1215,
+                        "y": 7,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:18:42.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [1215 7 -416] killed \"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [302 20 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1213,
+                        "y": 3,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:18:43.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [1213 3 -416] killed \"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [82 110 -370] with \"m4a1_silencer\""
+                }
+            ],
+            "18": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1477,
+                        "y": -2161,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:19:38.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [1477 -2161 -416] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [975 -2456 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 436,
+                        "y": -1372,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:20:55.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [436 -1372 -416] killed \"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [185 -1211 -370] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 459,
+                        "y": -1382,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:20:57.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [459 -1382 -416] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [869 -635 -293] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 457,
+                        "y": -1362,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:21:11.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [956 -582 -415] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [457 -1362 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "19": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 624,
+                        "y": -1526,
+                        "z": -608
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:22:51.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [624 -1526 -608] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [1181 -1679 -576] with \"awp\""
+                },
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 618,
+                        "y": -1593,
+                        "z": -571
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:22:56.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [628 -1420 -608] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [618 -1593 -571] with \"ak47\""
+                }
+            ],
+            "20": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 1421,
+                        "y": -1112,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:23:49.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><TERRORIST>\" [716 -2020 -416] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [1421 -1112 -352] with \"ak47\""
+                }
+            ],
+            "21": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 935,
+                        "y": -729,
+                        "z": -369
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:26:28.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [704 -1550 -416] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [935 -729 -369] with \"ak47\" (headshot)"
+                }
+            ],
+            "22": [
+                {
+                    "name": "s1mple",
+                    "location": {
+                        "x": 934,
+                        "y": -265,
+                        "z": -593
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:30:03.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [953 -439 -640] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [934 -265 -593] with \"ak47\" (headshot)"
+                }
+            ]
+        }
+    },
+    "b1t": {
+        "fullIdentifier": "b1t<13><STEAM_1:0:143170874",
+        "name": "b1t",
+        "roundEvents": {
+            "1": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 1407,
+                        "y": -2389,
+                        "z": -413
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:42:05.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [788 -2306 -416] killed \"b1t<32><STEAM_1:0:143170874><TERRORIST>\" [1407 -2389 -413] with \"usp_silencer\" (headshot)"
+                }
+            ],
+            "2": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 355,
+                        "y": -693,
+                        "z": -704
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:45:07.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [384 -1305 -768] killed \"b1t<32><STEAM_1:0:143170874><TERRORIST>\" [355 -693 -704] with \"mp9\" (headshot)"
+                }
+            ],
+            "3": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 699,
+                        "y": -2412,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:47:48.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [-242 -1969 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [699 -2412 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "4": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 634,
+                        "y": -1228,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:48:50.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [634 -1228 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [903 -656 -352] with \"tec9\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 629,
+                        "y": -1226,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:48:50.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [958 -758 -128] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [629 -1226 -370] with \"ak47\" (headshot)"
+                }
+            ],
+            "5": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 960,
+                        "y": -590,
+                        "z": -415
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:50:34.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [960 -590 -415] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [541 -550 -343] with \"galilar\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 954,
+                        "y": -585,
+                        "z": -351
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:50:35.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [936 -290 -128] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [954 -585 -351] with \"m4a1_silencer\""
+                }
+            ],
+            "6": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 408,
+                        "y": -1387,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:52:41.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [358 -1470 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [408 -1387 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "7": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": -455,
+                        "y": -1040,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:53:47.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [-455 -1040 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [220 -1250 -352] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 110,
+                        "y": -292,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:53:57.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [78 78 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [110 -292 -352] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "8": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 728,
+                        "y": -1294,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:57:19.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [728 -1294 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [443 -789 -328] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 729,
+                        "y": -1294,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:57:20.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [931 -1431 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [729 -1294 -352] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "9": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 568,
+                        "y": -1222,
+                        "z": -753
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:59:59.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [568 -1222 -753] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [848 94 -576] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 594,
+                        "y": -1293,
+                        "z": -706
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:00:01.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1169 -921 -768] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [594 -1293 -706] with \"m4a1_silencer\""
+                }
+            ],
+            "10": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 410,
+                        "y": -1259,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:02:12.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [410 -1259 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1245 -2049 -331] with \"ak47\""
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 511,
+                        "y": -1258,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:02:14.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [921 -288 -128] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [511 -1258 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "12": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 937,
+                        "y": -669,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:24.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [937 -669 -768] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [390 -381 -593] with \"galilar\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 850,
+                        "y": -583,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:29.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [850 -583 -768] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [362 -777 -590] with \"galilar\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 849,
+                        "y": -587,
+                        "z": -722
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:29.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [341 -534 -633] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [849 -587 -722] with \"ak47\" (headshot)"
+                }
+            ],
+            "13": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 588,
+                        "y": -1384,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:09:07.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [855 -630 -400] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [588 -1384 -352] with \"deagle\" (headshot)"
+                }
+            ],
+            "14": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 410,
+                        "y": -1245,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:10:28.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [831 -1327 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [410 -1245 -370] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "15": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 1055,
+                        "y": -1387,
+                        "z": -608
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:11:55.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [1055 -1387 -608] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [1114 -1210 -617] with \"tec9\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 1062,
+                        "y": -1379,
+                        "z": -562
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:11:57.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [507 -1429 -608] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [1062 -1379 -562] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "16": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 819,
+                        "y": -17,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:16:44.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [819 -17 -640] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [968 -516 -576] with \"usp_silencer\""
+                }
+            ],
+            "17": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 555,
+                        "y": 322,
+                        "z": -372
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:18:42.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [555 322 -372] killed \"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [94 -98 -352] with \"famas\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 546,
+                        "y": 319,
+                        "z": -320
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:18:44.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [546 319 -320] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [397 24 -352] with \"famas\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 537,
+                        "y": 313,
+                        "z": -320
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:18:44.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [537 313 -320] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [826 -172 -370] with \"famas\" (headshot)"
+                }
+            ],
+            "18": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 589,
+                        "y": 337,
+                        "z": -327
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:20:20.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [1190 -142 -416] killed \"b1t<35><STEAM_1:0:143170874><CT>\" [589 337 -327] with \"ak47\""
+                }
+            ],
+            "19": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 685,
+                        "y": -637,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:23:05.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [685 -637 -768] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [1161 -1141 -663] with \"m4a1\""
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 685,
+                        "y": -637,
+                        "z": -704
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:23:05.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [1013 -1014 -768] killed \"b1t<35><STEAM_1:0:143170874><CT>\" [685 -637 -704] with \"ak47\""
+                }
+            ],
+            "20": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 1200,
+                        "y": -628,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:24:04.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><TERRORIST>\" [1042 -1276 -408] killed \"b1t<35><STEAM_1:0:143170874><CT>\" [1200 -628 -352] with \"ak47\""
+                }
+            ],
+            "22": [
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 902,
+                        "y": -1043,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:30:00.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [902 -1043 -640] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [766 -1117 -705] with \"famas\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 942,
+                        "y": -1204,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:30:02.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [942 -1204 -640] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [298 -1312 -718] with \"famas\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 933,
+                        "y": -1288,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:30:03.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [933 -1288 -640] killed \"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [957 -432 -576] with \"famas\" (headshot)"
+                },
+                {
+                    "name": "b1t",
+                    "location": {
+                        "x": 798,
+                        "y": -1313,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:30:04.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [966 -585 -640] killed \"b1t<35><STEAM_1:0:143170874><CT>\" [798 -1313 -576] with \"ak47\""
+                }
+            ]
+        }
+    },
+    "electronic": {
+        "fullIdentifier": "electronic<12><STEAM_1:1:41889689",
+        "name": "electronic",
+        "roundEvents": {
+            "1": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1415,
+                        "y": -2416,
+                        "z": -482
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:42:16.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1415 -2416 -482] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [702 -2364 -352] with \"glock\" (headshot)"
+                },
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1468,
+                        "y": -2432,
+                        "z": -454
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:42:17.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1121 -2439 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1468 -2432 -454] with \"usp_silencer\" (headshot)"
+                }
+            ],
+            "2": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 169,
+                        "y": -2145,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:44:22.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1986 -1933 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [169 -2145 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "3": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1464,
+                        "y": -2042,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:47:36.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1464 -2042 -416] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [1846 -1858 -370] with \"ak47\""
+                },
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1438,
+                        "y": -1707,
+                        "z": -351
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:47:44.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1610 -371 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1438 -1707 -351] with \"m4a1_silencer\""
+                }
+            ],
+            "4": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 436,
+                        "y": -829,
+                        "z": -328
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:48:49.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [971 -791 -128] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [436 -829 -328] with \"ak47\""
+                }
+            ],
+            "5": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1176,
+                        "y": -1745,
+                        "z": -571
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:50:03.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1050 -1359 -608] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1176 -1745 -571] with \"ak47\""
+                }
+            ],
+            "6": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1469,
+                        "y": -2448,
+                        "z": -518
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:52:22.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1469 -2448 -518] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1579 -2307 -536] with \"mac10\""
+                },
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 340,
+                        "y": -1102,
+                        "z": -704
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:52:54.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [876 53 -640] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [340 -1102 -704] with \"m4a1_silencer\""
+                }
+            ],
+            "7": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 887,
+                        "y": -1698,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:53:53.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [887 -1698 -416] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [1451 -1218 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "8": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1531,
+                        "y": -2013,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:56:53.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [1067 -1891 -640] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1531 -2013 -576] with \"m4a1_silencer\""
+                }
+            ],
+            "9": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 172,
+                        "y": -1305,
+                        "z": -776
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:59:28.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [172 -1305 -776] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [943 -1223 -594] with \"ak47\" (headshot penetrated)"
+                },
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 361,
+                        "y": -1330,
+                        "z": -704
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:59:42.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1106 -411 -640] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [361 -1330 -704] with \"m4a1_silencer\""
+                }
+            ],
+            "10": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 347,
+                        "y": -2120,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:01:25.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [481 -1816 -408] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [347 -2120 -352] with \"m4a1_silencer\" (attackerblind)"
+                }
+            ],
+            "11": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1280,
+                        "y": -1972,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:03:25.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1280 -1972 -640] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [1022 -1577 -586] with \"ak47\" (headshot)"
+                }
+            ],
+            "12": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1376,
+                        "y": -714,
+                        "z": -583
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:27.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [444 -305 -640] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1376 -714 -583] with \"ak47\""
+                }
+            ],
+            "13": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 637,
+                        "y": -1610,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:09:14.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [637 -1610 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [885 -619 -337] with \"ak47\""
+                },
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 632,
+                        "y": -1487,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:09:15.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [406 -1295 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [632 -1487 -352] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "14": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 319,
+                        "y": -2174,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:10:03.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1259 -1526 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [319 -2174 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "18": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1330,
+                        "y": -398,
+                        "z": -64
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:20:14.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [1520 -796 -418] killed \"electronic<31><STEAM_1:1:41889689><CT>\" [1330 -398 -64] with \"ak47\" (headshot)"
+                }
+            ],
+            "19": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1369,
+                        "y": -1756,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:22:42.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><TERRORIST>\" [988 -2091 -416] killed \"electronic<31><STEAM_1:1:41889689><CT>\" [1369 -1756 -370] with \"ak47\""
+                }
+            ],
+            "20": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1298,
+                        "y": -1398,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:24:02.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><TERRORIST>\" [1119 -1495 -416] killed \"electronic<31><STEAM_1:1:41889689><CT>\" [1298 -1398 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "21": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1070,
+                        "y": -1767,
+                        "z": -635
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:26:12.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><CT>\" [1070 -1767 -635] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [1556 -2011 -594] with \"m4a1_silencer\""
+                }
+            ],
+            "22": [
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 1917,
+                        "y": -1493,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:29:13.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><CT>\" [1917 -1493 -416] killed \"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [612 -1572 -176] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "electronic",
+                    "location": {
+                        "x": 341,
+                        "y": -1244,
+                        "z": -706
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:30:17.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [715 -1029 -772] killed \"electronic<31><STEAM_1:1:41889689><CT>\" [341 -1244 -706] with \"ak47\" (headshot)"
+                }
+            ]
+        }
+    },
+    "shox ": {
+        "fullIdentifier": "shox <33><STEAM_1:1:23327283",
+        "name": "shox ",
+        "roundEvents": {
+            "1": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1121,
+                        "y": -2439,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:42:17.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1121 -2439 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1468 -2432 -454] with \"usp_silencer\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 592,
+                        "y": -2130,
+                        "z": -265
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:42:21.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [-6 -1843 -40] killed \"shox <33><STEAM_1:1:23327283><CT>\" [592 -2130 -265] with \"glock\" (headshot)"
+                }
+            ],
+            "2": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 731,
+                        "y": -593,
+                        "z": -704
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:44:45.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [927 -724 -640] killed \"shox <33><STEAM_1:1:23327283><CT>\" [731 -593 -704] with \"deagle\" (headshot)"
+                }
+            ],
+            "3": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1610,
+                        "y": -371,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:47:44.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1610 -371 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1438 -1707 -351] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1077,
+                        "y": -334,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:47:58.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1077 -334 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [1459 -570 -370] with \"m4a1_silencer\""
+                }
+            ],
+            "4": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 971,
+                        "y": -791,
+                        "z": -128
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:48:49.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [971 -791 -128] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [436 -829 -328] with \"ak47\""
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 958,
+                        "y": -758,
+                        "z": -128
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:48:50.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [958 -758 -128] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [629 -1226 -370] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 978,
+                        "y": -730,
+                        "z": -78
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:48:51.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [711 -470 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [978 -730 -78] with \"tec9\""
+                }
+            ],
+            "5": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1050,
+                        "y": -1359,
+                        "z": -608
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:50:03.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1050 -1359 -608] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1176 -1745 -571] with \"ak47\""
+                }
+            ],
+            "7": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 326,
+                        "y": -1313,
+                        "z": -704
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:54:13.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [1126 -398 -640] killed \"shox <33><STEAM_1:1:23327283><CT>\" [326 -1313 -704] with \"ak47\" (headshot)"
+                }
+            ],
+            "8": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 781,
+                        "y": -1751,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:56:50.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [781 -1751 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1552 -1190 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 931,
+                        "y": -1431,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:57:20.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [931 -1431 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [729 -1294 -352] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 929,
+                        "y": -1419,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:57:20.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [929 -1419 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [449 -1219 -352] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 937,
+                        "y": -1367,
+                        "z": -368
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:57:22.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [17 -1221 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [937 -1367 -368] with \"ak47\""
+                }
+            ],
+            "9": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1384,
+                        "y": -798,
+                        "z": -703
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:59:31.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1384 -798 -703] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1065 -1176 -640] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1106,
+                        "y": -411,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:59:42.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1106 -411 -640] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [361 -1330 -704] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1285,
+                        "y": -652,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:59:51.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [1269 -936 -768] killed \"shox <33><STEAM_1:1:23327283><CT>\" [1285 -652 -576] with \"awp\""
+                }
+            ],
+            "11": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1847,
+                        "y": -1532,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:03:36.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1847 -1532 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1675 -1680 -352] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1475,
+                        "y": -1680,
+                        "z": -369
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:03:52.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [361 -1912 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [1475 -1680 -369] with \"galilar\""
+                }
+            ],
+            "12": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": -183,
+                        "y": -970,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:02.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [-183 -970 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [8 -300 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 615,
+                        "y": -1292,
+                        "z": -724
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:40.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [241 -1342 -776] killed \"shox <33><STEAM_1:1:23327283><CT>\" [615 -1292 -724] with \"galilar\" (headshot)"
+                }
+            ],
+            "13": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 885,
+                        "y": -619,
+                        "z": -337
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:09:14.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [637 -1610 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [885 -619 -337] with \"ak47\""
+                }
+            ],
+            "14": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 516,
+                        "y": -1652,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:10:13.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [516 -1652 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [591 -1523 -353] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 831,
+                        "y": -1327,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:10:28.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [831 -1327 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [410 -1245 -370] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 943,
+                        "y": -1244,
+                        "z": -369
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:10:34.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [-48 -1273 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [943 -1244 -369] with \"galilar\" (headshot)"
+                }
+            ],
+            "15": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 507,
+                        "y": -1429,
+                        "z": -608
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:11:57.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [507 -1429 -608] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [1062 -1379 -562] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 640,
+                        "y": -1536,
+                        "z": -544
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:12:00.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [1189 -1674 -640] killed \"shox <33><STEAM_1:1:23327283><CT>\" [640 -1536 -544] with \"deagle\""
+                }
+            ],
+            "16": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 968,
+                        "y": -516,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:16:44.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [819 -17 -640] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [968 -516 -576] with \"usp_silencer\""
+                }
+            ],
+            "17": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 826,
+                        "y": -172,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:18:44.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [537 313 -320] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [826 -172 -370] with \"famas\" (headshot)"
+                }
+            ],
+            "18": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 975,
+                        "y": -2456,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:19:38.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [1477 -2161 -416] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [975 -2456 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "19": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 988,
+                        "y": -2091,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:22:42.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><TERRORIST>\" [988 -2091 -416] killed \"electronic<31><STEAM_1:1:41889689><CT>\" [1369 -1756 -370] with \"ak47\""
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1181,
+                        "y": -1679,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:22:51.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [624 -1526 -608] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [1181 -1679 -576] with \"awp\""
+                }
+            ],
+            "20": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 716,
+                        "y": -2020,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:23:49.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><TERRORIST>\" [716 -2020 -416] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [1421 -1112 -352] with \"ak47\""
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1119,
+                        "y": -1495,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:24:02.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><TERRORIST>\" [1119 -1495 -416] killed \"electronic<31><STEAM_1:1:41889689><CT>\" [1298 -1398 -352] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1042,
+                        "y": -1276,
+                        "z": -408
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:24:04.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><TERRORIST>\" [1042 -1276 -408] killed \"b1t<35><STEAM_1:0:143170874><CT>\" [1200 -628 -352] with \"ak47\""
+                }
+            ],
+            "21": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 1556,
+                        "y": -2011,
+                        "z": -594
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:26:12.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><CT>\" [1070 -1767 -635] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [1556 -2011 -594] with \"m4a1_silencer\""
+                }
+            ],
+            "22": [
+                {
+                    "name": "shox ",
+                    "location": {
+                        "x": 298,
+                        "y": -1312,
+                        "z": -718
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:30:02.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [942 -1204 -640] killed \"shox <33><STEAM_1:1:23327283><TERRORIST>\" [298 -1312 -718] with \"famas\" (headshot)"
+                }
+            ]
+        }
+    },
+    "misutaaa": {
+        "fullIdentifier": "misutaaa<24><STEAM_1:1:60631591",
+        "name": "misutaaa",
+        "roundEvents": {
+            "1": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 406,
+                        "y": -1332,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:43:11.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [406 -1332 -768] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [427 -105 -576] with \"usp_silencer\""
+                }
+            ],
+            "2": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 594,
+                        "y": 625,
+                        "z": -479
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:44:21.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [594 625 -479] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [113 -151 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 559,
+                        "y": 633,
+                        "z": -416
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:44:21.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [12 -453 -416] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [559 633 -416] with \"deagle\" (headshot)"
+                }
+            ],
+            "4": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": -192,
+                        "y": -607,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:48:47.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [-192 -607 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [211 -1042 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 279,
+                        "y": -1063,
+                        "z": -392
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:48:52.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [279 -1063 -392] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [713 -467 -370] with \"m4a1_silencer\""
+                }
+            ],
+            "5": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 936,
+                        "y": -290,
+                        "z": -128
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:50:35.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [936 -290 -128] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [954 -585 -351] with \"m4a1_silencer\""
+                }
+            ],
+            "6": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 943,
+                        "y": -1174,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:52:53.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [943 -1174 -640] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [401 -1331 -708] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 790,
+                        "y": -1305,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:53:02.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [790 -1305 -640] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [952 -944 -722] with \"m4a1_silencer\""
+                }
+            ],
+            "7": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 78,
+                        "y": 78,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:53:57.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [78 78 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [110 -292 -352] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 92,
+                        "y": 79,
+                        "z": -369
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:53:57.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [200 -237 -416] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [92 79 -369] with \"ak47\" (headshot)"
+                }
+            ],
+            "8": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 1067,
+                        "y": -1891,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:56:53.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [1067 -1891 -640] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1531 -2013 -576] with \"m4a1_silencer\""
+                }
+            ],
+            "9": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 943,
+                        "y": -1223,
+                        "z": -594
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:59:28.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [172 -1305 -776] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [943 -1223 -594] with \"ak47\" (headshot penetrated)"
+                }
+            ],
+            "11": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 1022,
+                        "y": -1577,
+                        "z": -586
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:03:25.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1280 -1972 -640] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [1022 -1577 -586] with \"ak47\" (headshot)"
+                }
+            ],
+            "12": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 362,
+                        "y": -777,
+                        "z": -590
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:29.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [850 -583 -768] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [362 -777 -590] with \"galilar\" (headshot)"
+                }
+            ],
+            "13": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 853,
+                        "y": -362,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:09:14.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [853 -362 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [284 -1004 -346] with \"deagle\""
+                }
+            ],
+            "15": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 1177,
+                        "y": -306,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:12:27.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1365 -320 -416] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [1177 -306 -352] with \"tec9\" (headshot)"
+                }
+            ],
+            "16": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": -142,
+                        "y": -408,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:16:19.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><CT>\" [218 -336 -416] killed \"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [-142 -408 -352] with \"elite\" (headshot)"
+                }
+            ],
+            "17": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 94,
+                        "y": -98,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:18:42.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [555 322 -372] killed \"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [94 -98 -352] with \"famas\" (headshot)"
+                }
+            ],
+            "18": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": -255,
+                        "y": -960,
+                        "z": -414
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:20:41.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [-255 -960 -414] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [94 -715 -370] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 956,
+                        "y": -582,
+                        "z": -415
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:21:11.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [956 -582 -415] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [457 -1362 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "19": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 1013,
+                        "y": -1014,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:23:05.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [1013 -1014 -768] killed \"b1t<35><STEAM_1:0:143170874><CT>\" [685 -637 -704] with \"ak47\""
+                }
+            ],
+            "21": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 253,
+                        "y": -1092,
+                        "z": -407
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:26:28.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [253 -1092 -407] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [781 -343 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "22": [
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 953,
+                        "y": -439,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:30:03.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [953 -439 -640] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [934 -265 -593] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "misutaaa",
+                    "location": {
+                        "x": 957,
+                        "y": -432,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:30:03.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [933 -1288 -640] killed \"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [957 -432 -576] with \"famas\" (headshot)"
+                }
+            ]
+        }
+    },
+    "Perfecto": {
+        "fullIdentifier": "Perfecto<28><STEAM_1:0:80477379",
+        "name": "Perfecto",
+        "roundEvents": {
+            "1": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 151,
+                        "y": -2074,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:41:49.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1186 -1861 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [151 -2074 -352] with \"usp_silencer\" (headshot)"
+                }
+            ],
+            "2": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 113,
+                        "y": -151,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:44:21.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [594 625 -479] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [113 -151 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "3": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 80,
+                        "y": -2050,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:47:17.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1961 -1880 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [80 -2050 -352] with \"m4a1_silencer\" (penetrated)"
+                }
+            ],
+            "4": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 711,
+                        "y": -470,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:48:51.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [711 -470 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [978 -730 -78] with \"tec9\""
+                },
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 713,
+                        "y": -467,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:48:52.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [279 -1063 -392] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [713 -467 -370] with \"m4a1_silencer\""
+                }
+            ],
+            "5": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 347,
+                        "y": -936,
+                        "z": -290
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:50:29.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [689 -342 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [347 -936 -290] with \"m4a1_silencer\""
+                }
+            ],
+            "6": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 263,
+                        "y": -1267,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:52:42.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [263 -1267 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [368 -1457 -352] with \"deagle\""
+                },
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 401,
+                        "y": -1331,
+                        "z": -708
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:52:53.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [943 -1174 -640] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [401 -1331 -708] with \"m4a1_silencer\""
+                }
+            ],
+            "7": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 200,
+                        "y": -237,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:53:57.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [200 -237 -416] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [92 79 -369] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 1126,
+                        "y": -398,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:54:13.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [1126 -398 -640] killed \"shox <33><STEAM_1:1:23327283><CT>\" [326 -1313 -704] with \"ak47\" (headshot)"
+                }
+            ],
+            "8": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 449,
+                        "y": -1219,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:57:20.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [929 -1419 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [449 -1219 -352] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "9": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": -54,
+                        "y": -1175,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:59:42.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [-131 -410 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [-54 -1175 -352] with \"awp\""
+                }
+            ],
+            "10": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 149,
+                        "y": -2042,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:01:31.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [833 -2108 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [149 -2042 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "11": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 361,
+                        "y": -1912,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:03:52.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [361 -1912 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [1475 -1680 -369] with \"galilar\""
+                }
+            ],
+            "12": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 723,
+                        "y": -1170,
+                        "z": -723
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:10.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [419 64 -640] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [723 -1170 -723] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "13": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 285,
+                        "y": -944,
+                        "z": -392
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:09:11.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [285 -944 -392] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [877 -707 -336] with \"ak47\""
+                },
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 284,
+                        "y": -1004,
+                        "z": -346
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:09:14.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [853 -362 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [284 -1004 -346] with \"deagle\""
+                }
+            ],
+            "14": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": -48,
+                        "y": -1273,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:10:34.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [-48 -1273 -416] killed \"shox <33><STEAM_1:1:23327283><CT>\" [943 -1244 -369] with \"galilar\" (headshot)"
+                },
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": -60,
+                        "y": -1150,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:10:54.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [-466 -881 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [-60 -1150 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "15": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 1189,
+                        "y": -1674,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:12:00.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [1189 -1674 -640] killed \"shox <33><STEAM_1:1:23327283><CT>\" [640 -1536 -544] with \"deagle\""
+                }
+            ],
+            "16": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 716,
+                        "y": -503,
+                        "z": -411
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:16:31.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><CT>\" [716 -503 -411] killed \"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [401 -883 -328] with \"elite\" (headshot)"
+                }
+            ],
+            "18": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 294,
+                        "y": -989,
+                        "z": -392
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:20:39.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><CT>\" [294 -989 -392] killed \"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [909 -306 -64] with \"famas\" (headshot)"
+                },
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 137,
+                        "y": -943,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:20:52.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [-223 -1265 -416] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [137 -943 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "19": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 432,
+                        "y": -953,
+                        "z": -195
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:22:50.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [730 -1678 -416] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [432 -953 -195] with \"ak47\" (headshot)"
+                }
+            ],
+            "20": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 488,
+                        "y": -853,
+                        "z": -346
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:24:28.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [715 -1538 -416] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [488 -853 -346] with \"p250\""
+                }
+            ],
+            "21": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 781,
+                        "y": -343,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:26:28.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [253 -1092 -407] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [781 -343 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "22": [
+                {
+                    "name": "Perfecto",
+                    "location": {
+                        "x": 1043,
+                        "y": -956,
+                        "z": -722
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:30:15.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [734 -1137 -769] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [1043 -956 -722] with \"ak47\" (headshot)"
+                }
+            ]
+        }
+    },
+    "apEX": {
+        "fullIdentifier": "apEX<25><STEAM_1:1:14739219",
+        "name": "apEX",
+        "roundEvents": {
+            "2": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1986,
+                        "y": -1933,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:44:22.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1986 -1933 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [169 -2145 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1137,
+                        "y": -1043,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:45:05.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1137 -1043 -768] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [994 -969 -722] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "3": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1846,
+                        "y": -1858,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:47:36.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1464 -2042 -416] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [1846 -1858 -370] with \"ak47\""
+                }
+            ],
+            "5": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1857,
+                        "y": -1639,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:50:15.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1857 -1639 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1238 -2066 -344] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 689,
+                        "y": -342,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:50:29.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [689 -342 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [347 -936 -290] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 509,
+                        "y": -600,
+                        "z": -400
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:50:33.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [509 -600 -400] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [561 -1226 -352] with \"m4a1_silencer\" (headshot penetrated)"
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 541,
+                        "y": -550,
+                        "z": -343
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:50:34.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [960 -590 -415] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [541 -550 -343] with \"galilar\" (headshot)"
+                }
+            ],
+            "6": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 876,
+                        "y": 53,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:52:54.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [876 53 -640] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [340 -1102 -704] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 340,
+                        "y": -573,
+                        "z": -572
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:52:59.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [1074 -1040 -768] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [340 -573 -572] with \"tec9\" (headshot)"
+                }
+            ],
+            "7": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1451,
+                        "y": -1218,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:53:53.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [887 -1698 -416] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [1451 -1218 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "8": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 241,
+                        "y": -1087,
+                        "z": -415
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:57:31.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [241 -1087 -415] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [366 -959 -328] with \"m4a1_silencer\""
+                }
+            ],
+            "9": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1130,
+                        "y": -1811,
+                        "z": -635
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:59:53.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1130 -1811 -635] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [1179 -1354 -576] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1169,
+                        "y": -921,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:00:01.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1169 -921 -768] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [594 -1293 -706] with \"m4a1_silencer\""
+                }
+            ],
+            "10": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 481,
+                        "y": -1816,
+                        "z": -408
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:01:25.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [481 -1816 -408] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [347 -2120 -352] with \"m4a1_silencer\" (attackerblind)"
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 810,
+                        "y": -2187,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:01:30.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [810 -2187 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [272 -2022 -274] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 833,
+                        "y": -2108,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:01:31.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [833 -2108 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [149 -2042 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "12": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 419,
+                        "y": 64,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:10.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [419 64 -640] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [723 -1170 -723] with \"m4a1_silencer\" (headshot)"
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 390,
+                        "y": -381,
+                        "z": -593
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:24.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [937 -669 -768] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [390 -381 -593] with \"galilar\" (headshot)"
+                }
+            ],
+            "13": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 406,
+                        "y": -1295,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:09:15.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [406 -1295 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [632 -1487 -352] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "15": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1114,
+                        "y": -1210,
+                        "z": -617
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:11:55.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [1055 -1387 -608] killed \"apEX<25><STEAM_1:1:14739219><CT>\" [1114 -1210 -617] with \"tec9\" (headshot)"
+                }
+            ],
+            "16": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 401,
+                        "y": -883,
+                        "z": -328
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:16:31.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><CT>\" [716 -503 -411] killed \"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [401 -883 -328] with \"elite\" (headshot)"
+                }
+            ],
+            "17": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 82,
+                        "y": 110,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:18:43.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [1213 3 -416] killed \"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [82 110 -370] with \"m4a1_silencer\""
+                }
+            ],
+            "18": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1520,
+                        "y": -796,
+                        "z": -418
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:20:14.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [1520 -796 -418] killed \"electronic<31><STEAM_1:1:41889689><CT>\" [1330 -398 -64] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 1190,
+                        "y": -142,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:20:20.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [1190 -142 -416] killed \"b1t<35><STEAM_1:0:143170874><CT>\" [589 337 -327] with \"ak47\""
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 909,
+                        "y": -306,
+                        "z": -64
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:20:39.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><CT>\" [294 -989 -392] killed \"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [909 -306 -64] with \"famas\" (headshot)"
+                }
+            ],
+            "19": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 855,
+                        "y": -1632,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:22:48.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [855 -1632 -416] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [771 -1694 -352] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 730,
+                        "y": -1678,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:22:50.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [730 -1678 -416] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [432 -953 -195] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 628,
+                        "y": -1420,
+                        "z": -608
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:22:56.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [628 -1420 -608] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [618 -1593 -571] with \"ak47\""
+                }
+            ],
+            "21": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 704,
+                        "y": -1550,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:26:28.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [704 -1550 -416] killed \"s1mple<30><STEAM_1:1:36968273><CT>\" [935 -729 -369] with \"ak47\" (headshot)"
+                }
+            ],
+            "22": [
+                {
+                    "name": "apEX",
+                    "location": {
+                        "x": 612,
+                        "y": -1572,
+                        "z": -176
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:29:13.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><CT>\" [1917 -1493 -416] killed \"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [612 -1572 -176] with \"m4a1_silencer\" (headshot)"
+                }
+            ]
+        }
+    },
+    "ZywOo": {
+        "fullIdentifier": "ZywOo<26><STEAM_1:1:76700232",
+        "name": "ZywOo",
+        "roundEvents": {
+            "1": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1186,
+                        "y": -1862,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:41:49.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1186 -1862 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [181 -2121 -370] with \"usp_silencer\" (headshot)"
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1186,
+                        "y": -1861,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:41:49.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1186 -1861 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [151 -2074 -352] with \"usp_silencer\" (headshot)"
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 788,
+                        "y": -2306,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:42:05.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [788 -2306 -416] killed \"b1t<32><STEAM_1:0:143170874><TERRORIST>\" [1407 -2389 -413] with \"usp_silencer\" (headshot)"
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 702,
+                        "y": -2364,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:42:16.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1415 -2416 -482] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [702 -2364 -352] with \"glock\" (headshot)"
+                }
+            ],
+            "2": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 739,
+                        "y": 175,
+                        "z": -614
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:45:04.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [739 175 -614] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [871 -108 -576] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "3": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1484,
+                        "y": -2053,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:47:00.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1484 -2053 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [599 -1814 -344] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1961,
+                        "y": -1880,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:47:17.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1961 -1880 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [80 -2050 -352] with \"m4a1_silencer\" (penetrated)"
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1961,
+                        "y": -1879,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:47:18.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [296 -1813 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1961 -1879 -352] with \"ak47\""
+                }
+            ],
+            "5": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1064,
+                        "y": -1193,
+                        "z": -647
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:50:01.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1126 -1895 -640] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1064 -1193 -647] with \"galilar\" (headshot)"
+                }
+            ],
+            "6": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 468,
+                        "y": -1452,
+                        "z": -608
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:52:06.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [468 -1452 -608] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [452 -1405 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1579,
+                        "y": -2307,
+                        "z": -536
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:52:22.000Z",
+                    "type": "player",
+                    "message": "\"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1469 -2448 -518] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1579 -2307 -536] with \"mac10\""
+                }
+            ],
+            "7": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 551,
+                        "y": -1420,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:53:38.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [551 -1420 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [66 -1204 -357] with \"awp\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 220,
+                        "y": -1250,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:53:47.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [-455 -1040 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [220 -1250 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "8": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 443,
+                        "y": -789,
+                        "z": -328
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:57:19.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [728 -1294 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [443 -789 -328] with \"ak47\" (headshot)"
+                }
+            ],
+            "9": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": -131,
+                        "y": -410,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:59:42.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [-131 -410 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [-54 -1175 -352] with \"awp\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 848,
+                        "y": 94,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:59:59.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [568 -1222 -753] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [848 94 -576] with \"ak47\" (headshot)"
+                }
+            ],
+            "10": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1870,
+                        "y": -1681,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:01:33.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1870 -1681 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [624 -2399 -352] with \"awp\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1245,
+                        "y": -2049,
+                        "z": -331
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:02:12.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [410 -1259 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1245 -2049 -331] with \"ak47\""
+                }
+            ],
+            "12": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 696,
+                        "y": -1270,
+                        "z": -724
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:42.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [244 -1348 -776] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [696 -1270 -724] with \"glock\" (headshot)"
+                }
+            ],
+            "13": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 601,
+                        "y": -1113,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:09:06.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [601 -1113 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [578 -1219 -352] with \"taser\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 591,
+                        "y": -1108,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:09:06.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [737 -1604 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [591 -1108 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "14": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1259,
+                        "y": -1526,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:10:03.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1259 -1526 -416] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [319 -2174 -352] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": -466,
+                        "y": -881,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:10:54.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [-466 -881 -416] killed \"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [-60 -1150 -352] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": -466,
+                        "y": -881,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:10:54.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [-466 -881 -416] killed \"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [36 -1211 -352] with \"ak47\" (headshot penetrated)"
+                }
+            ],
+            "15": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1439,
+                        "y": -2035,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:11:46.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [374 -2040 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1439 -2035 -370] with \"ak47\" (headshot)"
+                }
+            ],
+            "16": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1167,
+                        "y": -2441,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:16:31.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [1279 -861 -408] killed \"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [1167 -2441 -352] with \"usp_silencer\" (headshot)"
+                }
+            ],
+            "17": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 302,
+                        "y": 20,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:18:42.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [1215 7 -416] killed \"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [302 20 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "18": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": -223,
+                        "y": -1265,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:20:52.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [-223 -1265 -416] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [137 -943 -352] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 185,
+                        "y": -1211,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:20:55.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [436 -1372 -416] killed \"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [185 -1211 -370] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "20": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 1383,
+                        "y": -2076,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:24:10.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [1383 -2076 -416] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [658 -1494 -370] with \"ak47\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 715,
+                        "y": -1538,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:24:28.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [715 -1538 -416] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [488 -853 -346] with \"p250\""
+                }
+            ],
+            "22": [
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 966,
+                        "y": -585,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:30:04.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [966 -585 -640] killed \"b1t<35><STEAM_1:0:143170874><CT>\" [798 -1313 -576] with \"ak47\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 740,
+                        "y": -1146,
+                        "z": -769
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:30:15.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [740 -1146 -769] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [1127 -880 -688] with \"ak47\""
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 734,
+                        "y": -1137,
+                        "z": -769
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:30:15.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [734 -1137 -769] killed \"Perfecto<28><STEAM_1:0:80477379><CT>\" [1043 -956 -722] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "ZywOo",
+                    "location": {
+                        "x": 715,
+                        "y": -1029,
+                        "z": -772
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:30:17.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [715 -1029 -772] killed \"electronic<31><STEAM_1:1:41889689><CT>\" [341 -1244 -706] with \"ak47\" (headshot)"
+                }
+            ]
+        }
+    },
+    "Kyojin": {
+        "fullIdentifier": "Kyojin<34><STEAM_1:1:22851120",
+        "name": "Kyojin",
+        "roundEvents": {
+            "2": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 384,
+                        "y": -1305,
+                        "z": -768
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:45:07.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [384 -1305 -768] killed \"b1t<32><STEAM_1:0:143170874><TERRORIST>\" [355 -693 -704] with \"mp9\" (headshot)"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": -242,
+                        "y": -1969,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:47:48.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [-242 -1969 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [699 -2412 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "4": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 608,
+                        "y": -639,
+                        "z": -207
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:48:41.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [608 -639 -207] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [447 -874 -303] with \"ak47\""
+                },
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 903,
+                        "y": -656,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:48:50.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [634 -1228 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [903 -656 -352] with \"tec9\" (headshot)"
+                }
+            ],
+            "5": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 897,
+                        "y": -1311,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:50:26.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [207 -1227 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [897 -1311 -352] with \"inferno\""
+                }
+            ],
+            "6": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 358,
+                        "y": -1470,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:52:41.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [358 -1470 -416] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [408 -1387 -352] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 368,
+                        "y": -1457,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:52:42.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [263 -1267 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [368 -1457 -352] with \"deagle\""
+                }
+            ],
+            "8": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 285,
+                        "y": -933,
+                        "z": -328
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:57:17.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [272 -1110 -395] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [285 -933 -328] with \"ak47\" (headshot)"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 921,
+                        "y": -288,
+                        "z": -128
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:02:14.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [921 -288 -128] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [511 -1258 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "11": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 884,
+                        "y": -488,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:04:21.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [686 -1554 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [884 -488 -352] with \"ak47\""
+                }
+            ],
+            "12": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 444,
+                        "y": -305,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:27.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [444 -305 -640] killed \"electronic<31><STEAM_1:1:41889689><TERRORIST>\" [1376 -714 -583] with \"ak47\""
+                },
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 341,
+                        "y": -534,
+                        "z": -633
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:29.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [341 -534 -633] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [849 -587 -722] with \"ak47\" (headshot)"
+                },
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 751,
+                        "y": -1254,
+                        "z": -705
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:07:34.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [120 -1326 -776] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [751 -1254 -705] with \"galilar\""
+                }
+            ],
+            "13": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 855,
+                        "y": -630,
+                        "z": -400
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:09:07.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [855 -630 -400] killed \"b1t<35><STEAM_1:0:143170874><TERRORIST>\" [588 -1384 -352] with \"deagle\" (headshot)"
+                },
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 844,
+                        "y": -636,
+                        "z": -400
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:09:07.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [844 -636 -400] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [710 -1556 -370] with \"deagle\" (headshot)"
+                },
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 877,
+                        "y": -707,
+                        "z": -336
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:09:11.000Z",
+                    "type": "player",
+                    "message": "\"Perfecto<28><STEAM_1:0:80477379><TERRORIST>\" [285 -944 -392] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [877 -707 -336] with \"ak47\""
+                }
+            ],
+            "15": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 1317,
+                        "y": -385,
+                        "z": -64
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:11:52.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><TERRORIST>\" [880 -2441 -416] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [1317 -385 -64] with \"ak47\" (throughsmoke)"
+                }
+            ],
+            "16": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": -187,
+                        "y": -362,
+                        "z": -307
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:16:20.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><CT>\" [237 -448 -416] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [-187 -362 -307] with \"elite\""
+                }
+            ],
+            "17": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 397,
+                        "y": 24,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:18:44.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [546 319 -320] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [397 24 -352] with \"famas\" (headshot)"
+                }
+            ],
+            "18": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 869,
+                        "y": -635,
+                        "z": -293
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:20:57.000Z",
+                    "type": "player",
+                    "message": "\"s1mple<30><STEAM_1:1:36968273><CT>\" [459 -1382 -416] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [869 -635 -293] with \"m4a1_silencer\""
+                }
+            ],
+            "19": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 1161,
+                        "y": -1141,
+                        "z": -663
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:23:05.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [685 -637 -768] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [1161 -1141 -663] with \"m4a1\""
+                }
+            ],
+            "21": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": -41,
+                        "y": -1169,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:26:25.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [-41 -1169 -416] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [458 -1366 -352] with \"ak47\""
+                }
+            ],
+            "22": [
+                {
+                    "name": "Kyojin",
+                    "location": {
+                        "x": 766,
+                        "y": -1117,
+                        "z": -705
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:30:00.000Z",
+                    "type": "player",
+                    "message": "\"b1t<35><STEAM_1:0:143170874><CT>\" [902 -1043 -640] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [766 -1117 -705] with \"famas\" (headshot)"
+                }
+            ]
+        }
+    },
+    "Boombl4": {
+        "fullIdentifier": "Boombl4<29><STEAM_1:0:92970669",
+        "name": "Boombl4",
+        "roundEvents": {
+            "1": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": -6,
+                        "y": -1843,
+                        "z": -40
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:42:21.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [-6 -1843 -40] killed \"shox <33><STEAM_1:1:23327283><CT>\" [592 -2130 -265] with \"glock\" (headshot)"
+                },
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 427,
+                        "y": -105,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:43:11.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><CT>\" [406 -1332 -768] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [427 -105 -576] with \"usp_silencer\""
+                }
+            ],
+            "2": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 871,
+                        "y": -108,
+                        "z": -576
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:45:04.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [739 175 -614] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [871 -108 -576] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "3": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 599,
+                        "y": -1814,
+                        "z": -344
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:47:00.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1484 -2053 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [599 -1814 -344] with \"m4a1_silencer\""
+                }
+            ],
+            "4": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 447,
+                        "y": -874,
+                        "z": -303
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:48:41.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [608 -639 -207] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [447 -874 -303] with \"ak47\""
+                }
+            ],
+            "5": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 1126,
+                        "y": -1895,
+                        "z": -640
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T19:50:01.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1126 -1895 -640] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [1064 -1193 -647] with \"galilar\" (headshot)"
+                },
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 1238,
+                        "y": -2066,
+                        "z": -344
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:50:15.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><CT>\" [1857 -1639 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1238 -2066 -344] with \"m4a1_silencer\""
+                }
+            ],
+            "6": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 452,
+                        "y": -1405,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:52:06.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [468 -1452 -608] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [452 -1405 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "7": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 66,
+                        "y": -1204,
+                        "z": -357
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:53:38.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [551 -1420 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [66 -1204 -357] with \"awp\""
+                }
+            ],
+            "8": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 1552,
+                        "y": -1190,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:56:50.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [781 -1751 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1552 -1190 -352] with \"m4a1_silencer\""
+                }
+            ],
+            "9": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 1065,
+                        "y": -1176,
+                        "z": -640
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T19:59:31.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1384 -798 -703] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1065 -1176 -640] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "10": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 624,
+                        "y": -2399,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:01:33.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><CT>\" [1870 -1681 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [624 -2399 -352] with \"awp\""
+                }
+            ],
+            "11": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 1675,
+                        "y": -1680,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:03:36.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [1847 -1532 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1675 -1680 -352] with \"m4a1_silencer\" (headshot)"
+                }
+            ],
+            "12": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 120,
+                        "y": -1326,
+                        "z": -776
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:34.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [120 -1326 -776] killed \"Kyojin<34><STEAM_1:1:22851120><CT>\" [751 -1254 -705] with \"galilar\""
+                },
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 241,
+                        "y": -1342,
+                        "z": -776
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:40.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [241 -1342 -776] killed \"shox <33><STEAM_1:1:23327283><CT>\" [615 -1292 -724] with \"galilar\" (headshot)"
+                },
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 244,
+                        "y": -1348,
+                        "z": -776
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:07:42.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [244 -1348 -776] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [696 -1270 -724] with \"glock\" (headshot)"
+                }
+            ],
+            "13": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 737,
+                        "y": -1604,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:09:06.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [737 -1604 -416] killed \"ZywOo<26><STEAM_1:1:76700232><CT>\" [591 -1108 -352] with \"m4a1_silencer\""
+                },
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 710,
+                        "y": -1556,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:09:07.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><CT>\" [844 -636 -400] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [710 -1556 -370] with \"deagle\" (headshot)"
+                }
+            ],
+            "14": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 591,
+                        "y": -1523,
+                        "z": -353
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:10:13.000Z",
+                    "type": "player",
+                    "message": "\"shox <33><STEAM_1:1:23327283><CT>\" [516 -1652 -416] killed \"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [591 -1523 -353] with \"m4a1_silencer\""
+                }
+            ],
+            "15": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 1365,
+                        "y": -320,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:12:27.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><TERRORIST>\" [1365 -320 -416] killed \"misutaaa<24><STEAM_1:1:60631591><CT>\" [1177 -306 -352] with \"tec9\" (headshot)"
+                }
+            ],
+            "16": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 218,
+                        "y": -336,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:16:19.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><CT>\" [218 -336 -416] killed \"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [-142 -408 -352] with \"elite\" (headshot)"
+                },
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 237,
+                        "y": -448,
+                        "z": -416
+                    },
+                    "playerEvent": "player_kill",
+                    "timestamp": "2021-11-28T20:16:20.000Z",
+                    "type": "player",
+                    "message": "\"Boombl4<29><STEAM_1:0:92970669><CT>\" [237 -448 -416] killed \"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [-187 -362 -307] with \"elite\""
+                }
+            ],
+            "18": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 94,
+                        "y": -715,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:20:41.000Z",
+                    "type": "player",
+                    "message": "\"misutaaa<24><STEAM_1:1:60631591><TERRORIST>\" [-255 -960 -414] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [94 -715 -370] with \"ak47\" (headshot)"
+                }
+            ],
+            "19": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 771,
+                        "y": -1694,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:22:48.000Z",
+                    "type": "player",
+                    "message": "\"apEX<25><STEAM_1:1:14739219><TERRORIST>\" [855 -1632 -416] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [771 -1694 -352] with \"ak47\" (headshot)"
+                }
+            ],
+            "20": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 658,
+                        "y": -1494,
+                        "z": -370
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:24:10.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [1383 -2076 -416] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [658 -1494 -370] with \"ak47\""
+                }
+            ],
+            "21": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 458,
+                        "y": -1366,
+                        "z": -352
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:26:25.000Z",
+                    "type": "player",
+                    "message": "\"Kyojin<34><STEAM_1:1:22851120><TERRORIST>\" [-41 -1169 -416] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [458 -1366 -352] with \"ak47\""
+                }
+            ],
+            "22": [
+                {
+                    "name": "Boombl4",
+                    "location": {
+                        "x": 1127,
+                        "y": -880,
+                        "z": -688
+                    },
+                    "playerEvent": "player_death",
+                    "timestamp": "2021-11-28T20:30:15.000Z",
+                    "type": "player",
+                    "message": "\"ZywOo<26><STEAM_1:1:76700232><TERRORIST>\" [740 -1146 -769] killed \"Boombl4<29><STEAM_1:0:92970669><CT>\" [1127 -880 -688] with \"ak47\""
+                }
+            ]
+        }
+    }
+}
