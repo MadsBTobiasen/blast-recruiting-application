@@ -23,29 +23,37 @@ const useDatabase = <TData>(
     const dbDirectory = path.join(__dirname, "..", "db")
     const dbFile = `${dbDirectory}/${fileName}.${extension}`
 
+    let data: TData;
+
     /**
      * Fetch information from the database.
+     * @param force Option to return lazily, and not force a fetch.
      * @returns 
      */
-    const get = async (): Promise<TData | undefined> => {
+    const get = async (force: boolean = true): Promise<TData | undefined> => {
         if (!existsSync(dbFile))
             return undefined
+
+        if (!force && data)
+            return data
 
         const content = await readFile(dbFile, { encoding: "utf-8" })
 
         if (!content)
             return undefined
-        
+
         // Handling json.
         if (extension === "json") {
-            return handler
+            data = handler
                 ? handler(content)
                 : JSON.parse(content) as TData
         }
         
         if (!handler)
             throw new Error("A handler must be provided for non-json data.")
-        return handler(content)
+        
+        data = handler(content)
+        return data;
     }
 
     /**
