@@ -56,7 +56,7 @@ The parser exposes a few endpoints as found below:
 
 Although database is mentioned, the express server simply uses locally stored json-files for it's data store.
 
-Besides this overview, the repository also includes a Postman collection found here: [blast-server-log-visualizer/parser.postman_collection](https://github.com/MadsBTobiasen/blast-recruiting-application/blob/main/blast-server-log-visualizer/parser.postman_collection).
+Besides this overview, the repository also includes a Postman collection found here: [blast-server-log-visualizer/parser.postman_collection](https://github.com/MadsBTobiasen/blast-recruiting-application/blob/main/blast-server-log-visualizer/parser.postman_collection.json).
 
 *NOTE: Prior to consuming any of the endpoints, please ensure to use the `ProvisionDatabase`-first, as this'll fetch the server log and parse it.*
 
