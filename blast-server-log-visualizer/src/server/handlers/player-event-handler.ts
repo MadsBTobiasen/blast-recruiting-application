@@ -61,8 +61,6 @@ export const handlePlayerEvents = async (round: Round) => {
 const identifyPlayers = (round: Round): Record<string, Player> => {
     let players = round.events.filter(e => e.message.match(regex.playerEvent))
 
-    console.log("identifyt")
-
     return players.reduce((acc, curr) => {
         // Additional matches exists for ingame id, and steamid.
         const [_, fullIdentifier, playerName] = curr.message.match(regex.playerEvent)!
