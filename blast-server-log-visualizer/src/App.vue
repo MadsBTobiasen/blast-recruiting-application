@@ -1,11 +1,26 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Content from './components/Content.vue';
+import Header from './components/Header.vue';
+
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div class="content">
+    <Header></Header>
+    <Content></Content>
+  </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.content {
+  @apply w-full min-h-screen flex flex-col;
+}
+
+.content > div.header {
+  @apply flex-none;
+}
+
+.content > div.main {
+  @apply flex-auto;
+}
+</style>

@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Radion";
+    font-weight: normal;
+    font-style: normal;
+    src: url("@/assets/RadionA-BlackItalic.woff")
+}
+
+@font-face {
+    font-family: "TT Norms pro";
+    font-weight: 400;
+    font-style: normal;
+    src: url("@/assets/TT-norms-pro-regular.woff")
+}
+
+.container {
+    @apply max-w-7xl w-full;
+}
+
+.btv-bg-img {
+    background: url("https://chewedup.blast.tv/images/header.png") no-repeat;
+    background-size: cover;
+    background-position: left center;
+    mix-blend-mode: soft-light;
+    background-color: #1e0a18
+}
+
+.btv-gradient {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0) 72.94%), linear-gradient(90deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 72.94%), linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 36.5%, rgba(0, 0, 0, 0) 72.9%, rgba(0, 0, 0, 0) 72.94%, rgba(0, 0, 0, 0.6) 100%), linear-gradient(180deg, #410a26 0%, #10323e 100%)
+}
+
+
