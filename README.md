@@ -77,4 +77,4 @@ Below is a complete list of statistics considered, as well as their point of imp
 ---
 
 ## Important Considerations
-Although the position is for a role which includes active development with React and **NOT** Vuejs, I decided to proceed with a tool I know, so I could create a full-stack solution within a reasonable timeframe. 
+Although the position is for a role which includes active development with React and **NOT** Vuejs, I decided to proceed with a tool I know, so I could create a full-stack solution within a reasonable timeframe. The codebase could definitely do with a few optimizations, and removal of redundencies and repetitions.
