@@ -23,11 +23,14 @@ const grouped = computed(() => {
             store[s.name] = { round: {}, match: {} }
         
         store[s.name]!.match = s
-        var kdRatio = (s.kills / s.deaths)
+        let kdRatio = (s.kills / s.deaths)
+        
+        if (kdRatio === Infinity || Number.isNaN(kdRatio))
+            kdRatio = -1
 
         // The padding obviously breaks, if a player has 10+ kd/ratio, but for the purpose of this, it's fine.
         // We fall back to the kills when the kd is infinity, to mimic the behaviour of the in-game scoreboard.
-        store[s.name]!.match.kdratio = (kdRatio === Infinity ? store[s.name]!.match.kills! : kdRatio)
+        store[s.name]!.match.kdratio = (kdRatio === -1 ? store[s.name]!.match.kills! : kdRatio)
             .toFixed(2).padEnd(4, "0")
     })
 
